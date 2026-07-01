@@ -1,0 +1,6 @@
+{
+  "name": "Presupuesto con Google Sheets",
+  "description": "Un planificador de presupuesto personal y familiar con vistas mensuales, anuales y de ahorro, con gráficos automáticos y sincronización en tiempo real con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
